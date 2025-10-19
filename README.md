@@ -1,84 +1,113 @@
-# Ahmad Makki - Data Science Professional
+# **Ahmad Makki – AI/ML Engineer & Data Science Professional**
 
-## Introduction
+## 👋 Introduction
 
-I am Ahmad Makki, a dedicated and passionate Data Science professional currently pursuing an MS in Data Science from Punjab University College of Information Technology (PUCIT), with a CGPA of 3.3. My academic background includes a B.Sc in Electrical Engineering from the University of Engineering and Technology (UET), Lahore. I have a strong foundation in Machine Learning, Natural Language Processing (NLP), and Statistical Analysis, with hands-on experience in MLOps, DevOps, and Big Data Analytics.
+I am **Ahmad Makki**, an AI/ML Engineer and Data Science professional with strong expertise in **Computer Vision, NLP, Generative AI, and MLOps**. Currently pursuing **MS in Data Science (CGPA: 3.4)** from **PUCIT**, Lahore, after completing **B.Sc. Electrical Engineering** from **UET Lahore**.  
+I build **AI solutions, LLM-based chat systems, FastAPI backends**, and **Docker-deployed ML models**.
 
-### Contact Information
-- **Location**: Lahore, Pakistan
-- **Phone**: +923042725542
-- **Email**: [makkia52@gmail.com](mailto:makkia52@gmail.com)
-- **LinkedIn**: [linkedin.com/in/EngrAhmadMakki](https://linkedin.com/in/EngrAhmadMakki)
-- **GitHub**: [github.com/EngrAhmadMakki](https://github.com/EngrAhmadMakki)
+---
 
-## Education
+### 📍 **Contact Information**
+- **Location:** Lahore, Pakistan  
+- **Phone:** +92 304 2725542  
+- **Email:** [makkia52@gmail.com](mailto:makkia52@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/EngrAhmadMakki](https://linkedin.com/in/EngrAhmadMakki)  
+- **GitHub:** [github.com/EngrAhmadMakki](https://github.com/EngrAhmadMakki)
 
-- **MS Data Science**
-  - Punjab University College of Information Technology (PUCIT)
-  - Sep. 2023 – Present, Lahore, Punjab
-  - CGPA: 3.3
+---
 
-- **B.Sc Electrical Engineering**
-  - University of Engineering and Technology (UET)
-  - Sep. 2017 – Oct. 2021, Lahore, Punjab
+## 🎓 **Education**
 
-### Relevant Coursework
-- Machine Learning
-- Natural Language Processing (NLP)
-- Statistical Analysis
-- Tools and Techniques
-- MLOps
-- DevOps
-- Big Data Analytics
-- Research Methodology
+| Degree | Institute | Duration | Details |
+|--------|----------|----------|---------|
+| **MS Data Science (CGPA 3.4)** | Punjab University College of Information Technology (PUCIT) | 2023 – Present | Lahore, Pakistan |
+| **B.Sc. Electrical Engineering** | University of Engineering and Technology (UET), Lahore | 2017 – 2021 | Lahore, Pakistan |
 
-## Experience
+### 📘 **Relevant Coursework**
+**Machine Learning • NLP • Big Data • DevOps • MLOps • Research Methodology • Statistical Analysis**
 
-**Management Trainee Engineer**  
-Dawn Pvt. Ltd.  
-Dec. 2021 – Aug. 2023, Lahore, Punjab
+---
 
-- Managed and optimized maintenance and procurement processes using the PM and MM modules in SAP S4/HANA.
-- Collaborated with the IT team to integrate SAP solutions, enhancing operational efficiency and reducing downtime.
-- Developed and implemented strategies for effective materials management, ensuring timely procurement and inventory control.
-- Conducted training sessions for team members on SAP S4/HANA functionalities to streamline plant operations and support continuous improvement initiatives.
+## 💼 **Professional Experience**
 
-## Projects
+### **Associate AI/ML Engineer – Scraperrs Lab**  
+*Feb 2025 – Present | Lahore, Pakistan*  
+- Built **Computer Vision pipelines** (annotation, training, testing, evaluation).  
+- Developed **FastAPI backends** for inference with integrated LLMs.  
+- Deployed ML models using **Docker** for production environments.  
+- Created **Agentic AI workflows** using **n8n** and implemented **LLM voice/chat agents** with Whisper + GPT.
 
-### Smart Conversational Agent for Mental Health Support
-**Technologies**: Python, ML, DL, NLP, LLMs  
-**Date**: July 2024
+### **Trainee – Data Science & AI – Machine Learning 1 Limited**  
+*Jan 2025 – Feb 2025 | Lahore, Pakistan*  
+- Developed ML models using **Pandas, NumPy, Scikit-learn, SciPy**.  
+- Worked on **text preprocessing, NLP**, and evaluation metrics.  
+- Assisted senior data scientists in model performance tuning.
 
-- Developed a Smart Conversational Agent to provide mental health support using various approaches.
-- Implemented rule-based methods using CountVector, TF-IDF, and similarity matrices for initial response generation.
-- Used retrieval-based techniques, including CNN, RNN, LSTM, GRU, and BiLSTM models, to retrieve appropriate responses based on user input.
-- Incorporated generative-based models like GPT-2, GPT-3.5 Turbo, Cohere, MistralAi, and Ai21 Studio to create natural and empathetic conversations.
+### **Trainee – Data Science & AI – Descon**  
+*Oct 2024 – Dec 2024 | Lahore, Pakistan*  
+- Training in **ML, NLP, SQL, Docker, and Generative AI**.  
+- Completed **Andrew Ng’s Deep Learning & LLM courses**.  
+- Worked with **SpaCy, NLTK, SQL** and deployed mini-projects.
 
-### Predictive Modeling for Student Final Scores
-**Technologies**: Python, ML & DL Models  
-**Date**: March 2024
+---
 
-- Developed a predictive model to estimate students’ final scores based on initial assessments.
-- Trained the model using previous course data and tested it with data, focusing on the transition from initial to final.
-- Utilized datasets from morning sessions for training and afternoon sessions for testing, predicting student scores from the 5th activity onward.
+## 🚀 **Projects**
 
-### Kubernetes ML Model Deployment Project
-**Technologies**: Minikube, Kubernetes, ML Models  
-**Date**: February 2024
+### 🧠 Smart Conversational Agent for Mental Health Support  
+**Technologies:** Python, NLP, LLMs, GPT, Cohere, Mistral  
+- Built a mental health chatbot using **Rule-based, Retrieval-based, and Generative AI**.  
+- Integrated **GPT-2, GPT-3.5, Cohere & Mistral models** for empathetic responses.
 
-- Deployed an ML model using Minikube on a pod, demonstrating NodePort/LoadBalancer access.
-- Scaled the pod to 1-5 replicas, showing the IP address of the serving pods.
-- Tested CPU saturation, scaled to two pods, and implemented autoscaling in Kubernetes.
+### 🎯 Predictive Modeling for Student Final Scores  
+**Technologies:** Python, ML/DL  
+- Predicted student performance based on early assessments.  
+- Trained models using academic datasets for regression analysis.
 
-## Certifications
+### ☸ Kubernetes ML Model Deployment  
+**Technologies:** Kubernetes, Minikube, Docker  
+- Deployed ML model using **NodePort & LoadBalancer**.  
+- Implemented **auto-scaling & multi-replica serving**.
 
-- **Prompt Engineering** by DeepLearning.Ai
-- **LangChain Chat with Your Data** by DeepLearning.Ai
-- **Python for Data Science, AI & Development** by IBM
-- **Deep Learning Specialization** by DeepLearning.Ai (5 Course Series)
+### 📄 RAG-Based PDF Query System (Docker & Streamlit)  
+**Technologies:** RAG, Docker, Streamlit  
+- Developed PDF Q&A system with **LLM retrieval capabilities**.  
+- Containerized using Docker for consistent deployment.
 
-## Technical Skills
+---
 
-- **Languages & Libraries**: Python, Pandas, NumPy, NLTK, Scikit-learn, TensorFlow, Keras, LLMs (GPT-3.5 turbo, GPT-4, Cohere, MistralAi, and Ai21 Studio, LLAMA3)
-- **Developer Tools**: VS Code, Jupyter Notebook, Google CoLab, Git, Docker, Kubernetes
-- **Technologies/Frameworks**: Linux, Jenkins, GitHub, Spark, Hadoop, Flink, Matplotlib, Seaborn
+## 🏅 **Certifications**
+
+- **Generative AI with LLMs** – DeepLearning.Ai  
+- **Prompt Engineering** – DeepLearning.Ai  
+- **LangChain: Chat with Your Data** – DeepLearning.Ai  
+- **Deep Learning Specialization (5 Courses)** – Andrew Ng  
+- **Python for Data Science, AI & Development** – IBM  
+- **Docker Mastery (Kubernetes & Swarm)** – Bret Fisher, Udemy  
+- **HackerRank Certifications:** SQL, Python
+
+---
+
+## 🛠️ **Technical Skills**
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | Python, SQL |
+| **Libraries/Frameworks** | Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, NLTK, SpaCy, Streamlit |
+| **LLMs & AI** | GPT-4, GPT-3.5, Cohere, Mistral, LLaMA3 |
+| **MLOps & Tools** | FastAPI, Docker, Kubernetes, Git, Linux |
+| **Visualization** | Matplotlib, Seaborn |
+
+---
+
+## 🌱 **Currently Learning**
+- Fine-tuning LLMs (LoRA, QLoRA, PEFT)  
+- Agentic AI & LangGraph  
+- Multi-modal AI (Vision + Language Models)
+
+---
+
+## 🤝 **Let’s Collaborate**
+I’m open to **AI/ML collaborations, research projects, and open-source contributions** in  
+**Conversational AI, Computer Vision, and Applied Machine Learning.**
+
+---
